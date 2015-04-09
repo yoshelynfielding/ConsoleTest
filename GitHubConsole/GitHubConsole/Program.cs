@@ -13,6 +13,7 @@ namespace GitHubConsole
             Console.WriteLine("Hello Git");
             Console.WriteLine("Hello Git branching");
             Console.WriteLine("Hello Git branching");
+            Console.WriteLine("Hello Git Test branch");
             Console.Read();
         }
     }
