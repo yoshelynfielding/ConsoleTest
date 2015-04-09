@@ -11,6 +11,7 @@ namespace GitHubConsole
         static void Main(string[] args)
         {
             Console.Write("Hello Git");
+            Console.Write("Hello Git branching");
             Console.Read();
         }
     }
